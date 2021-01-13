@@ -1,0 +1,13 @@
+{
+    "name": "Representatives",
+    "alias": "representatives",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Representatives\\Providers\\RepresentativesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

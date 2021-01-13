@@ -1,0 +1,13 @@
+{
+    "name": "Staffs",
+    "alias": "staffs",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Staffs\\Providers\\StaffsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

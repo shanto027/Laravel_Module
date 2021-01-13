@@ -1,0 +1,9 @@
+{
+    "Projects": true,
+    "Representatives": true,
+    "Clients": true,
+    "Staffs": true,
+    "Zoom": true,
+    "Chat": true,
+    "Report": true
+}
